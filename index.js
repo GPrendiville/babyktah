@@ -91,7 +91,7 @@ function mouseClicked() {
 }
 
 function loseHealth() {
-  let msg = document.getElementById("message");
+  let mg = document.getElementById("message");
   let health = document.getElementById("health");
   health.value -= 1;
   if (health.value <= 0) {

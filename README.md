@@ -1,7 +1,7 @@
 # Baby K'Tah
 Project for CMSI 185
 
-Griffith Prendiville
+Made by: Griffith Prendiville
 
 It is loosely based on the famous K'Tah Project.
 
