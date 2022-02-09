@@ -7,6 +7,8 @@ Made by: Griffith Prendiville
 
 It is loosely based on the famous K'Tah Project.
 
+This is a test
+
 Features:
   * 2-D canvas
   * Collision Detection
